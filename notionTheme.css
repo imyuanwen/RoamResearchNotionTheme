@@ -59,7 +59,7 @@ div {
   color: #37352f99;
   text-decoration: none;
   border-bottom: 1px solid #37352f33;
-  padding-bottom: 2px;
+  padding-bottom: 1px;
 }
 
 .roam-article .roam-block a:focus, .roam-article .roam-block a:hover {
