@@ -1,2 +1,8 @@
 # RoamResearchNotionTheme
-This is a css file for Roam Theme.
+This is a CSS file for Roam Theme.
+
+# Tutorial 
+1. Go to the theme.css file.
+2. Copy the code.
+3. Go to your Roam roam/css page.
+4. Paste the code in a code block.
