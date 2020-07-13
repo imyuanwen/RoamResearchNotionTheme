@@ -91,3 +91,16 @@ div {
 .block-highlight-blue {
     background-color: rgba(45, 170, 219, 0.3);
 }
+
+.rm-block-text {
+    max-width: 600px;
+}
+
+#roam-sidebar-logo {    
+    color: white;
+}
+
+#roam-sidebar-logo:hover {
+    background-color: #37352f14;
+
+}
